@@ -180,8 +180,6 @@ footer p{
     .banner-tagline h1{
       font-size: 5rem;
     }
-  }
-  @media screen and (min-width: 1200px){
     .title h2{
       font-size: 2rem;
       font-weight: 300;
